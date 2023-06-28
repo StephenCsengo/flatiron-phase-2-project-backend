@@ -152,5 +152,16 @@
     }
   ],
 
-  "completed": []
+  "completed": [
+    {
+      "id": 1,
+      "park": "Larkin State Park Trail",
+      "trail": "Larkin State Park Trail",
+      "distance": 6,
+      "description": "Stretching across four towns, this long and narrow state park trail combines enough remarkable history, geography, and aesthetics to rate its 110 acres as one of the biggest and prettiest parks in Connecticut’s system. Originally designated as a trail for horses, for which it is still popular, Larkin’s ten miles now also serve walkers, joggers, bikers, and hikers.",
+      "difficulty": "Easy",
+      "map": "https://portal.ct.gov/DEEP/State-Parks/Parks/Larkin-State-Park-Trail/Maps",
+      "image": "https://2.bp.blogspot.com/-wdQs3_c4FNU/WDbkGyNtLuI/AAAAAAAAB4U/aKA5QV7ueyUA44UyjeI_60pjs7S9hpl0gCEw/w1200-h630-p-k-no-nu/Hop%2BRiver%2BTr.%252C%2Brock%2Bcut%252C%2B7-11.jpg"
+    }
+  ]
 }
