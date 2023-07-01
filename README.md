@@ -64,3 +64,8 @@ make sure your server works!
 ## License
 
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
+
+
+## Acknowledgments
+
+JSON Server Template courtesy of [Flatiron School](https://github.com/learn-co-curriculum/json-server-template).
