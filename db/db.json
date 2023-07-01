@@ -71,6 +71,14 @@
       "description": "Machimoodus means 'the place of bad noises'",
       "difficulty": "Moderate",
       "image": "https://cdn.branchcms.com/43L054R6mQ-1637/images/trails/trail/Machimoodus_C_H-128.jpeg"
+    },
+    {
+      "park": "Steep Rock Preserve",
+      "suggestedmi": 4,
+      "difficulty": "Moderate",
+      "image": "https://img-aws.ehowcdn.com/700x/www.onlyinyourstate.com/wp-content/uploads/2020/08/Screen-Shot-2020-08-06-at-3.58.04-PM.png",
+      "description": "Old train tunnel from the 1870s",
+      "id": 10
     }
   ]
 }
