@@ -18,14 +18,6 @@
     },
     {
       "id": 3,
-      "park": "Moosup State Park Trail",
-      "suggestedmi": 5.8,
-      "description": "Flat trail, fancy bridge",
-      "difficulty": "Easy",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Moosup_Valley_State_Park_Trail_bridge_in_Moosup%2C_October_2020.JPG"
-    },
-    {
-      "id": 4,
       "park": "Farmington Canal Heritage Trail",
       "suggestedmi": 6,
       "description": "Paved trail, some hills",
@@ -33,7 +25,7 @@
       "image": "https://cloudfront.traillink.com/photos/farmington-canal-heritage-trail_199914_sc.jpg"
     },
     {
-      "id": 5,
+      "id": 4,
       "park": "Hop River State Park Trail",
       "suggestedmi": 6,
       "description": "Flat, nice views",
@@ -41,31 +33,7 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5e246e9e8524a16d5bde4485/1582360846683-7JHIPXORXJ50C40NBGF2/Hop+River+State+Park+Trail+6.JPG?format=1000w"
     },
     {
-      "id": 6,
-      "park": "Auerfarm State Park",
-      "suggestedmi": 2,
-      "description": "Interesting surroundings, easy trails",
-      "difficulty": "Easy",
-      "image": "https://photos.bringfido.com/attractions/2/9/6/16692/16692_39513.jpg?size=tile&density=1x"
-    },
-    {
-      "id": 7,
-      "park": "Windsor Locks Canal State Park Trail",
-      "suggestedmi": 4.5,
-      "description": "Pave trail with CT River views",
-      "difficulty": "Easy",
-      "image": "https://cloudfront.traillink.com/photos/windsor-locks-canal-state-park-trail_196797_sc.jpg"
-    },
-    {
-      "id": 8,
-      "park": "Mianus River State Park",
-      "suggestedmi": 2.6,
-      "description": "Park in the middle of Stamford",
-      "difficulty": "Easy",
-      "image": "https://www.greenwichct.gov/ImageRepository/Document?documentId=30689"
-    },
-    {
-      "id": 9,
+      "id": 5,
       "park": "Mount Riga State Park",
       "suggestedmi": 3.6,
       "description": "Steep with beautiful views",
@@ -73,15 +41,7 @@
       "image": "https://cdn.branchcms.com/43L054R6mQ-1637/images/trails/trail/DSCF2316-2-128.jpg"
     },
     {
-      "id": 10,
-      "park": "Hopemead State Park",
-      "suggestedmi": 1,
-      "description": "Short trail, but nice lake",
-      "difficulty": "Easy",
-      "image": "https://www.ctvisit.com/sites/default/files/Hopemead%20State%20Park%20Bozrah.jpg"
-    },
-    {
-      "id": 11,
+      "id": 6,
       "park": "Camp Columbia State Park",
       "suggestedmi": 2.36,
       "description": "Cool stone observation tower",
@@ -89,7 +49,7 @@
       "image": "https://ghosty-production.s3.amazonaws.com/fotospot_spots/Camp-Columbia-Tower-Fotospot_cc95df5415103a5e6b3fd308be845db3/large.jpg"
     },
     {
-      "id": 12,
+      "id": 7,
       "park": "Mount Tom State Park",
       "suggestedmi": 1,
       "description": "Mt. Tom is one of the oldest parks in CT",
@@ -97,7 +57,7 @@
       "image": "https://live.staticflickr.com/4282/34622306214_96f51d48ef_b.jpg"
     },
     {
-      "id": 13,
+      "id": 8,
       "park": "Haystack Mountain State Park",
       "suggestedmi": 1.6,
       "description": "I can see Vermont from here",
@@ -105,15 +65,7 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5cc10882ebfc7f8dfd4c09bc/1595374845475-CUV2F9IAE0I673C07U4Z/Campbell+Falls+4.jpg"
     },
     {
-      "id": 14,
-      "park": "Chatfield Hollow State Park",
-      "suggestedmi": 0.4,
-      "description": "Native Americans used the caves here",
-      "difficulty": "Moderate",
-      "image": "https://www.naturallyamazing.com/americasparks/1014.jpg"
-    },
-    {
-      "id": 15,
+      "id": 9,
       "park": "Machimoodus State Park",
       "suggestedmi": 1.6,
       "description": "Machimoodus means 'the place of bad noises'",
